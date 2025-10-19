@@ -1,9 +1,7 @@
 # Crime Analytics Dashboard – End-to-End Power BI Project
 
-## 🌐 Live Assets
-📊 [Interactive Dashboard (PBIX)](powerbi/CrimeAnalytics_Dashboard.pbix)  
-📄 [Static Report (PDF)](powerbi/CrimeAnalytics_Report.pdf)  
-📓 [Python EDA Notebook](notebooks/02_eda.ipynb)
+## Dashboard
+📊 (crime_dashboard.png)
 
 ---
 
