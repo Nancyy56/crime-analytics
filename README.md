@@ -1,7 +1,7 @@
 # Crime Analytics Dashboard – End-to-End Power BI Project
 
-## Dashboard
-📊 (crime_dashboard.png)
+## 📊 Dashboard
+![Dashboard](crime_dashboard.png)
 
 ---
 
